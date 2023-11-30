@@ -1,5 +1,5 @@
 #[contract]
-mod starknet10 {
+mod starknet11 {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
 
